@@ -1,4 +1,5 @@
 
+# PASSWORD CHECKER
 
 password = input("enter the password: ")
 
